@@ -10,6 +10,7 @@ This folder contains all official project communications sent to stakeholders du
 | `EMAIL_04_Quality_Control_Team.md` | Quality Control Team | Engagement as SMEs and defect data request |
 | `EMAIL_05_Supply_Chain_Planning.md` | Supply Chain & Planning Team | Scope alignment and scheduling coordination |
 | `EMAIL_06_Distributors_Retailers.md` | Distributors & Retailers | External stakeholder notification and VOC request |
+| `EMAIL_07_Data_Request.md` | All Internal Stakeholders | Formal request for 6-month historical data across 7 categories, with definitions and justifications |
 
 ---
 
@@ -27,3 +28,4 @@ This folder contains all official project communications sent to stakeholders du
 | `EMAIL_04_Quality_Control_Team.md` | فريق مراقبة الجودة | التفاعل بوصفهم خبراء وطلب بيانات العيوب |
 | `EMAIL_05_Supply_Chain_Planning.md` | فريق سلسلة الإمداد والتخطيط | مواءمة النطاق وتنسيق الجدولة |
 | `EMAIL_06_Distributors_Retailers.md` | الموزعون وتجار التجزئة | إشعار أصحاب المصلحة الخارجيين وطلب صوت العميل |
+| `EMAIL_07_Data_Request.md` | جميع أصحاب المصلحة الداخليين | طلب رسمي للبيانات التاريخية لـ 6 أشهر عبر 7 فئات، مع تعريفات ومبررات |
