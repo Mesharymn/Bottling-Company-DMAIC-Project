@@ -1,37 +1,36 @@
-# Water Bottling Company - Define Stage Repository
+# Define Stage | مرحلة التحديد
 
-This repository contains the complete "Define" phase artifacts for the process improvement project at the regional Water Bottling Company. The objective of this project is to address production inefficiencies, reduce defect rates, and improve on-time order fulfillment.
+This folder contains the complete "Define" phase artifacts for the Water Bottling Company process improvement project. The objective is to clearly frame the problem, establish measurable goals, understand the process boundaries, translate customer needs into CTQs, and identify all key stakeholders.
 
-## Repository Structure
+يحتوي هذا المجلد على جميع مخرجات مرحلة "التحديد" لمشروع تحسين العمليات في شركة تعبئة المياه. يهدف إلى تأطير المشكلة بوضوح، وتحديد أهداف قابلة للقياس، وفهم حدود العملية، وترجمة احتياجات العملاء إلى متطلبات جودة حرجة (CTQ)، وتحديد جميع أصحاب المصلحة الرئيسيين.
 
-The repository is organized logically into four main areas representing the core tools of the Define phase:
+---
 
-1. **`01_Project_Charter/`**
-   Contains the foundational documents defining the project's scope, goals, business case, and specific problem statements based on operational data.
-   * `Project_Charter.md`
-   * `Problem_Statement.md`
+## Folder Contents | محتويات المجلد
 
-2. **`02_Process_Mapping/`**
-   Contains high-level process mapping to understand the boundaries and flow of the bottling operation.
-   * `SIPOC.md`
+| Folder / المجلد | Description / الوصف |
+| :--- | :--- |
+| `01_Project_Charter/` | Business case, SMART goals, team, and scope / وثيقة المشروع، الأهداف، الفريق، والنطاق |
+| `02_Process_Mapping/` | SIPOC high-level process map / خريطة العملية على المستوى العالي |
+| `03_Voice_Of_Customer/` | VOC translation and VOC-to-CTQ mapping / ترجمة صوت العميل وربطه بمتطلبات الجودة |
+| `04_Stakeholder_Analysis/` | Full stakeholder identification, mapping, engagement, and risk / تحليل أصحاب المصلحة الكامل |
 
-3. **`03_Voice_Of_Customer/`**
-   Translates raw customer feedback (internal and external) into measurable Critical-to-Quality (CTQ) metrics.
-   * `VOC_Translation.md`
-   * `VOC_to_CTQ.md`
+---
 
-4. **`04_Stakeholder_Analysis/`**
-   A comprehensive breakdown of all parties involved, their influence, attitudes, engagement strategies, and associated risks.
-   * `Stakeholder_Identification.md`
-   * `Stakeholder_Mapping.md`
-   * `Engagement_and_Risk.md`
-   * `Key_Questions_Summary.md`
+## Key Findings | النتائج الرئيسية
 
-## Key Findings
+**Operational Inefficiency / عدم كفاءة التشغيل:**
+The production line outputs 18,000 bottles/hour against a target of 22,000. Downtime is nearly double the acceptable rate (18% vs ≤10%), driven primarily by 45-minute changeover times.
+خط الإنتاج يُنتج 18,000 زجاجة/ساعة مقابل هدف 22,000. وقت التوقف يكاد يكون ضعف المعدل المقبول (18% مقابل ≤10%)، مدفوعاً بأوقات تحويل تبلغ 45 دقيقة.
 
-* **Operational Inefficiency:** The production line is currently outputting 18,000 bottles/hour against a target of 22,000. Downtime is severely elevated at 18% (target ≤ 10%), largely driven by 45-minute changeover times (target ≤ 20 min).
-* **Quality Issues:** Defect rates (leakage and sealing) stand at 4.5% (target ≤ 1%), leading to a 6% rework rate and driving a 35% increase in customer complaints.
-* **Customer Impact:** On-time order fulfillment has dropped to 82% (target ≥ 95%). Customers are returning defective batches, rejecting deliveries, and delaying payments.
-* **Internal Friction:** Sales and distribution teams face stock shortages of high-demand SKUs due to inventory imbalances caused by unreliable production.
+**Quality Issues / مشكلات الجودة:**
+Defect rates (leakage and sealing) stand at 4.5% — 4.5 times the target — causing a 6% rework rate and a 35% spike in customer complaints.
+معدلات العيوب (التسرب والإغلاق) تبلغ 4.5% — أي 4.5 أضعاف الهدف — مما يُسبب معدل إعادة عمل 6% وارتفاعاً بنسبة 35% في شكاوى العملاء.
 
-Please navigate to the individual folders to review the filled templates and detailed analysis.
+**Customer Impact / تأثير على العملاء:**
+On-time order fulfillment has dropped to 82% (target ≥95%). Customers are returning defective batches, rejecting deliveries, and delaying payments.
+انخفض معدل تسليم الطلبات في الوقت المحدد إلى 82% (الهدف ≥95%). يقوم العملاء بإرجاع الدفعات المعيبة ورفض التسليمات وتأخير المدفوعات.
+
+**Internal Friction / الاحتكاك الداخلي:**
+Sales and distribution teams face stock shortages of high-demand SKUs due to inventory imbalances caused by unreliable production.
+تواجه فرق المبيعات والتوزيع نقصاً في مخزون الأحجام الأكثر طلباً بسبب اختلالات المخزون الناجمة عن عدم موثوقية الإنتاج.
