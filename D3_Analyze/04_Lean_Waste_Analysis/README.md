@@ -1,11 +1,11 @@
-# 04 — Lean Waste Analysis (TIMWOODS)
+# 04 — Lean Waste Analysis (DOWNTIME)
 ## Water Bottling Company | Analyze Phase
 
 > Lean Waste Analysis identifies and quantifies **non-value-adding activities** in the production process. It connects Lean waste to the confirmed root causes from hypothesis testing.
 
 ---
 
-## The 8 Wastes (TIMWOODS) — Detailed Results
+## The 8 Wastes (DOWNTIME) — Detailed Results
 
 ### T — Transport
 | Observation | Current State | Impact |
@@ -186,7 +186,7 @@ Takt Time = Available Production Time / Customer Demand
 
 ---
 
-# 04 — تحليل هدر Lean (TIMWOODS)
+# 04 — تحليل هدر Lean (DOWNTIME)
 ## شركة تعبئة المياه | مرحلة التحليل
 
 ---

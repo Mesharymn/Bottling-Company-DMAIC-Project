@@ -12,7 +12,7 @@
 | `01_Fishbone_Diagram/` | Ishikawa / Fishbone | Brainstorm all potential causes across 6M categories |
 | `02_5_Why_Analysis/` | 5-Why | Drill down from symptom to root cause |
 | `03_Hypothesis_Testing/` | T-test, ANOVA, Chi-Square | Statistically confirm which causes are significant |
-| `04_Lean_Waste_Analysis/` | 8 Wastes (TIMWOODS) | Identify non-value-adding activities |
+| `04_Lean_Waste_Analysis/` | 8 Wastes (DOWNTIME) | Identify non-value-adding activities |
 | `06_Root_Cause_Summary/` | Summary report | Consolidate all confirmed root causes |
 
 ---
@@ -41,7 +41,7 @@ Improve Phase Input
 
 Lean and 6S are complementary. While 6S uses statistics to confirm root causes, **Lean identifies the waste** creating those causes.
 
-### The 8 Wastes (TIMWOODS)
+### The 8 Wastes (DOWNTIME)
 
 | Waste | Description | Bottling Company Example |
 |-------|-------------|--------------------------|
@@ -135,12 +135,12 @@ Lean and 6S are complementary. While 6S uses statistics to confirm root causes, 
 | `01_Fishbone_Diagram/` | إيشيكاوا / Fishbone | استعراض جميع الأسباب المحتملة عبر فئات 6M |
 | `02_5_Why_Analysis/` | 5-Why | التعمق من الأعراض إلى السبب الجذري |
 | `03_Hypothesis_Testing/` | T-test، ANOVA، Chi-Square | التأكيد الإحصائي للأسباب المهمة |
-| `04_Lean_Waste_Analysis/` | 8 هدر (TIMWOODS) | تحديد الأنشطة غير المضيفة للقيمة |
+| `04_Lean_Waste_Analysis/` | 8 هدر (DOWNTIME) | تحديد الأنشطة غير المضيفة للقيمة |
 | `06_Root_Cause_Summary/` | تقرير ملخص | توحيد جميع الأسباب الجذرية المؤكدة |
 
 ---
 
-## الهدر الثمانية (TIMWOODS)
+## الهدر الثمانية (DOWNTIME)
 
 | الهدر | الوصف | مثال من التعبئة |
 |-------|-------|----------------|
