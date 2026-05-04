@@ -41,19 +41,17 @@ Improve Phase Input
 
 Lean and 6S are complementary. While 6S uses statistics to confirm root causes, **Lean identifies the waste** creating those causes.
 
-### The 8 Wastes (DOWNTIME)
-
-| Waste | Description | Bottling Company Example |
-|-------|-------------|--------------------------|
-| **T** — Transport | Unnecessary movement of materials | Moving bottles between stations unnecessarily |
-| **I** — Inventory | Excess stock or WIP | Overproduction of 330ml while 1.5L orders are pending |
-| **M** — Motion | Unnecessary movement of people | Operators walking 45m to retrieve caps |
-| **W** — Waiting | Idle time | Line stopped waiting for maintenance during changeover |
-| **O** — Overproduction | Producing more than needed | Running 330ml when 1.5L demand is higher |
-| **O** — Over-processing | More work than required | Double-inspection at low-defect stations |
-| **D** — Defects | Rework, scrap, returns | 4.5% defect rate — leakage, underfill, label misalignment |
-| **S** — Skills | Underutilizing people's knowledge | Operators not involved in root cause analysis |
-
+### The 8 Wastes — DOWNTIME Methodology
+| Letter | Waste | Description | Bottling Company Example |
+|--------|-------|-------------|--------------------------|
+| **D** | Defects | Rework, scrap, returns | 4.5% defect rate — leakage, underfill, label misalignment |
+| **O** | Overproduction | Producing more than needed | Running 330ml when 1.5L demand is higher |
+| **W** | Waiting | Idle time | Line stopped waiting for maintenance during changeover |
+| **N** | Non-Utilized Talent | Underutilizing people's knowledge | Operators not involved in root cause analysis |
+| **T** | Transport | Unnecessary movement of materials | Moving bottles between stations unnecessarily |
+| **I** | Inventory | Excess stock or WIP | Overproduction of 330ml while 1.5L orders are pending |
+| **M** | Motion | Unnecessary movement of people | Operators walking 45m to retrieve caps |
+| **E** | Extra Processing | More work than required | Double-inspection at low-defect stations |
 ### Lean Tools Used in This Phase
 
 | Tool | Purpose | When to Use |
@@ -140,10 +138,18 @@ Lean and 6S are complementary. While 6S uses statistics to confirm root causes, 
 
 ---
 
-## الهدر الثمانية (DOWNTIME)
-
-| الهدر | الوصف | مثال من التعبئة |
-|-------|-------|----------------|
+## الهدر الثمانية — منهجية DOWNTIME
+| الحرف | الهدر | الوصف | مثال من التعبئة |
+|-------|-------|-------|----------------|
+| **D** | العيوب | إعادة عمل، خردة، مرتجعات | معدل عيوب 4.5% — تسريب، نقص تعبئة، خطأ في الملصق |
+| **O** | الإنتاج الزائد | إنتاج أكثر مما هو مطلوب | تشغيل 330مل بينما طلبات 1.5 لتر معلقة |
+| **W** | الانتظار | وقت خمول | توقف الخط انتظاراً للصيانة أثناء التحويل |
+| **N** | المواهب غير المستغلة | عدم استغلال معرفة الناس | المشغلون غير مشاركين في تحليل السبب الجذري |
+| **T** | النقل | حركة غير ضرورية للمواد | نقل الزجاجات بين المحطات بشكل غير ضروري |
+| **I** | المخزون | مخزون زائد أو WIP | إنتاج زائد من 330مل بينما 1.5 لتر شحيح |
+| **M** | الحركة | حركة غير ضرورية للأشخاص | المشغلون يمشون 45م لاسترداد الأغطية |
+| **E** | المعالجة الزائدة | عمل أكثر مما هو مطلوب | فحص مزدوج في محطات منخفضة العيوب |
+-------|-------|----------------|
 | **T** — النقل | حركة غير ضرورية للمواد | نقل الزجاجات بين المحطات بشكل غير ضروري |
 | **I** — المخزون | مخزون زائد أو WIP | إنتاج زائد من 330مل بينما 1.5 لتر شحيح |
 | **M** — الحركة | حركة غير ضرورية للأشخاص | المشغلون يمشون 45م لاسترداد الأغطية |
