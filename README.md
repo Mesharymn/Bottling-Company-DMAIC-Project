@@ -10,7 +10,7 @@ This repository contains all artifacts for the end-to-end DMAIC (Define, Measure
 | **Measure** | `D2_Measure/` | 🔜 Upcoming |
 | **Analyze** | `D3_Analyze/` | 🔜 Upcoming |
 | **Improve** | `D4_Improve/` | 🔄 In Progress |
-| **Control** | `D5_Control/` | 🔜 Upcoming |
+| **Control** | `D5_Control/` | 🔄 In Progress |
 
 ## Project Overview
 
@@ -46,7 +46,7 @@ Navigate into each phase folder to view the detailed templates, findings, and an
 | **القياس** | `D2_Measure/` | 🔜 قادم |
 | **التحليل** | `D3_Analyze/` | 🔜 قادم |
 | **التحسين** | `D4_Improve/` | 🔄 قيد التنفيذ |
-| **التحكم** | `D5_Control/` | 🔜 قادم |
+| **التحكم** | `D5_Control/` | 🔄 قيد التنفيذ |
 
 ## نظرة عامة على المشروع
 
