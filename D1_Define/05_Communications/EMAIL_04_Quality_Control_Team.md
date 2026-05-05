@@ -27,12 +27,12 @@ The QC Team will serve as **Subject Matter Experts (SMEs)** for all quality-rela
 This project supports your team's mission. A structured improvement will reduce the volume of defects you need to manage and strengthen the quality system overall.
 
 **Next Step:**
-Please bring your data summary to the **kick-off meeting on [Date] at [Time]**. We would also welcome a brief walk-through of your current inspection process on the line beforehand.
+Please bring your data summary to the **kick-off meeting on July 10, 2026 at 10:00 AM**. We would also welcome a brief walk-through of your current inspection process on the line beforehand.
 
 Thank you for your commitment to quality.
 
 Best regards,
-**[Project Lead Name]**
+**Meshary**
 DMAIC Improvement Team
 Water Bottling Company
 
@@ -69,11 +69,11 @@ Water Bottling Company
 يدعم هذا المشروع مهمة فريقكم. التحسين المنظّم سيُقلل حجم العيوب التي تحتاجون إلى إدارتها ويُعزز نظام الجودة بشكل عام.
 
 **الخطوة التالية:**
-يرجى إحضار ملخص بياناتكم إلى **اجتماع الانطلاق في [التاريخ] الساعة [الوقت]**. كما نرحّب بجولة قصيرة على عملية الفحص الحالية على الخط قبل ذلك.
+يرجى إحضار ملخص بياناتكم إلى **اجتماع الانطلاق في 5 يوليو 2026 الساعة 10:00 صباحاً**. كما نرحّب بجولة قصيرة على عملية الفحص الحالية على الخط قبل ذلك.
 
 شكراً على التزامكم بالجودة.
 
 مع خالص التقدير،
-**[اسم قائد المشروع]**
+**مشاري**
 فريق تحسين DMAIC
 شركة تعبئة المياه

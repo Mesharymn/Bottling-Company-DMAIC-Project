@@ -31,10 +31,10 @@ Required Data Fields:
 - Downtime Duration (minutes) and Reason Code
 - Defect Counts (specifically Capping Defects)
 
-Please provide this in Excel format by [Date]. This data is critical to accurately measure our current performance gap.
+Please provide this in Excel format by July 10, 2026. This data is critical to accurately measure our current performance gap.
 
 Thank you,
-[Your Name]
+Meshary
 ```
 
 ### Manual Data Collection Instructions (Supervisors)
@@ -48,7 +48,7 @@ Starting next week, we will conduct manual time studies on SKU changeovers as pa
 Our team will be on the floor recording the setup times. This is NOT an evaluation of operator performance, but a measurement of the process itself. Please inform your teams to work at their normal, safe pace.
 
 Thank you for your support,
-[Your Name]
+Meshary
 ```
 
 ---
@@ -87,10 +87,10 @@ Thank you for your support,
 - مدة التوقف (بالدقائق) ورمز السبب
 - عدد العيوب (تحديداً عيوب التغطية)
 
-يرجى توفير ذلك بصيغة Excel بحلول [التاريخ]. هذه البيانات حرجة لقياس فجوة أدائنا الحالي بدقة.
+يرجى توفير ذلك بصيغة Excel بحلول 5 يوليو 2026. هذه البيانات حرجة لقياس فجوة أدائنا الحالي بدقة.
 
 شكراً لكم،
-[اسمك]
+مشاري
 ```
 
 ### تعليمات جمع البيانات اليدوية (المشرفون)
@@ -104,7 +104,7 @@ Thank you for your support,
 سيتواجد فريقنا في صالة الإنتاج لتسجيل أوقات الإعداد. هذا ليس تقييماً لأداء المشغلين، بل قياس للعملية نفسها. يرجى إبلاغ فرقكم بالعمل بالوتيرة الطبيعية والآمنة.
 
 شكراً لدعمكم،
-[اسمك]
+مشاري
 ```
 
 ---

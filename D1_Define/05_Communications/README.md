@@ -72,43 +72,43 @@ Every communication should answer: **"Why does this matter to you?"**
 
 ### Project Kickoff Email Template
 ```
-Subject: [Project Name] — Six Sigma Project Kickoff
+Subject: Water Bottling 6S Efficiency — Six Sigma Project Kickoff
 
-Dear [Name],
+Dear Team,
 
 I am writing to inform you that we are launching a Six Sigma improvement 
-project focused on [problem statement in one sentence].
+project focused on reducing unplanned downtime and capping defects on Line 1.
 
-Project Goal: [goal statement]
-Timeline: [start date] to [end date]
-Your Role: [specific role/contribution needed]
+Project Goal: Reduce downtime from 18% to 10% and capping defects from 4.5% to 1%
+Timeline: July 1, 2026 to December 31, 2026
+Your Role: Provide operational insights and data support
 
-We will need your support in [specific ask — data, time, access].
+We will need your support in access to production logs and 2 hours per week for review meetings.
 
-I will schedule a kickoff meeting for [date] to walk through the project 
+I will schedule a kickoff meeting for July 5, 2026 to walk through the project 
 charter and answer any questions.
 
 Best regards,
-[Black Belt Name]
+Meshary
 ```
 
 ### Data Request Email Template
 ```
-Subject: Data Request — [Project Name]
+Subject: Data Request — Water Bottling 6S Efficiency
 
-Dear [Name],
+Dear Team,
 
-As part of our [project name] improvement project, we need the following 
+As part of our Water Bottling 6S Efficiency improvement project, we need the following 
 data to establish our baseline measurements:
 
 Data Required:
-1. [Data type 1] — [time period] — [format]
-2. [Data type 2] — [time period] — [format]
-3. [Data type 3] — [time period] — [format]
+1. Production Volume by SKU — Jan 01 - Jun 30 — Excel (.xlsx)
+2. Downtime Logs with Reason Codes — Jan 01 - Jun 30 — Excel (.xlsx)
+3. Defect Counts (Capping) — Jan 01 - Jun 30 — Excel (.xlsx)
 
-Deadline: [date]
+Deadline: July 5, 2026
 Format: Excel preferred
-Contact: [name and email]
+Contact: Meshary (meshary@bottling.com)
 
 This data will be used only for process analysis and will be kept 
 confidential within the project team.
@@ -189,40 +189,40 @@ Thank you for your cooperation.
 
 ### قالب البريد الإلكتروني لإطلاق المشروع
 ```text
-الموضوع: [اسم المشروع] — إطلاق مشروع 6S
+الموضوع: مشروع 6S لكفاءة تعبئة المياه — إطلاق مشروع 6S
 
-عزيزي [الاسم]،
+عزيزي فريق العمل،
 
-أكتب إليك لإبلاغك بأننا نطلق مشروع تحسين 6S يركز على [بيان المشكلة في جملة واحدة].
+أكتب إليك لإبلاغك بأننا نطلق مشروع تحسين 6S يركز على تقليل أوقات التوقف غير المخطط لها وعيوب التغطية في الخط الأول.
 
-هدف المشروع: [بيان الهدف]
-الجدول الزمني: [تاريخ البدء] إلى [تاريخ الانتهاء]
-دورك: [الدور المحدد/المساهمة المطلوبة]
+هدف المشروع: تقليل وقت التوقف من 18% إلى 10% وعيوب التغطية من 4.5% إلى 1%
+الجدول الزمني: 1 يوليو 2026 إلى 31 ديسمبر 2026
+دورك: تقديم الرؤى التشغيلية ودعم البيانات
 
-سنحتاج إلى دعمك في [الطلب المحدد — بيانات، وقت، وصول].
+سنحتاج إلى دعمك في الوصول إلى سجلات الإنتاج وساعتين أسبوعياً لاجتماعات المراجعة.
 
-سأقوم بجدولة اجتماع إطلاق في [التاريخ] لمراجعة ميثاق المشروع والإجابة على أي أسئلة.
+سأقوم بجدولة اجتماع إطلاق في 5 يوليو 2026 لمراجعة ميثاق المشروع والإجابة على أي أسئلة.
 
 أطيب التحيات،
-[اسم الحزام الأسود]
+مشاري
 ```
 
 ### قالب البريد الإلكتروني لطلب البيانات
 ```text
-الموضوع: طلب بيانات — [اسم المشروع]
+الموضوع: طلب بيانات — مشروع 6S لكفاءة تعبئة المياه
 
-عزيزي [الاسم]،
+عزيزي فريق العمل،
 
-كجزء من مشروع التحسين [اسم المشروع]، نحتاج إلى البيانات التالية لإنشاء قياسات خط الأساس الخاصة بنا:
+كجزء من مشروع التحسين مشروع 6S لكفاءة تعبئة المياه، نحتاج إلى البيانات التالية لإنشاء قياسات خط الأساس الخاصة بنا:
 
 البيانات المطلوبة:
-1. [نوع البيانات 1] — [الفترة الزمنية، حوالي 6 أشهر] — [الصيغة]
-2. [نوع البيانات 2] — [الفترة الزمنية، حوالي 6 أشهر] — [الصيغة]
-3. [نوع البيانات 3] — [الفترة الزمنية، حوالي 6 أشهر] — [الصيغة]
+1. حجم الإنتاج حسب وحدات المنتج — 1 يناير - 30 يونيو — إكسل (.xlsx)
+2. سجلات التوقف مع رموز الأسباب — 1 يناير - 30 يونيو — إكسل (.xlsx)
+3. أعداد العيوب (التغطية) — 1 يناير - 30 يونيو — إكسل (.xlsx)
 
-الموعد النهائي: [التاريخ]
+الموعد النهائي: 5 يوليو 2026
 الصيغة: يفضل Excel
-جهة الاتصال: [الاسم والبريد الإلكتروني]
+جهة الاتصال: مشاري (meshary@bottling.com)
 
 سيتم استخدام هذه البيانات فقط لتحليل العملية وسيتم الاحتفاظ بسريتها داخل فريق المشروع.
 

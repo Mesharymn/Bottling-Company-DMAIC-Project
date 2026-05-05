@@ -10,7 +10,7 @@ Starting next week, we will conduct manual time studies on SKU changeovers as pa
 Our team will be on the floor recording the setup times. This is NOT an evaluation of operator performance, but a measurement of the process itself. Please inform your teams to work at their normal, safe pace.
 
 Thank you for your support,
-[Your Name]
+Meshary
 
 ---
 
@@ -24,4 +24,4 @@ Thank you for your support,
 سيتواجد فريقنا في صالة الإنتاج لتسجيل أوقات الإعداد. هذا ليس تقييماً لأداء المشغلين، بل قياس للعملية نفسها. يرجى إبلاغ فرقكم بالعمل بالوتيرة الطبيعية والآمنة.
 
 شكراً لدعمكم،
-[اسمك]
+مشاري

@@ -24,12 +24,12 @@ We understand that your team faces daily pressure from stockouts of high-demand 
 During the improvement phase, we may recommend a **minimum run-size policy** to reduce changeover frequency. We will work closely with your team to ensure this is balanced against customer demand requirements.
 
 **Next Step:**
-Please join us at the **kick-off meeting on [Date] at [Time]**. We will dedicate a specific agenda item to inventory and scheduling alignment.
+Please join us at the **kick-off meeting on July 10, 2026 at 10:00 AM**. We will dedicate a specific agenda item to inventory and scheduling alignment.
 
 We look forward to your partnership.
 
 Best regards,
-**[Project Lead Name]**
+**Meshary**
 DMAIC Improvement Team
 Water Bottling Company
 
@@ -63,11 +63,11 @@ Water Bottling Company
 خلال مرحلة التحسين، قد نوصي بـ **سياسة حجم دورة أدنى** لتقليل تكرار التحويلات. سنعمل عن كثب مع فريقكم لضمان التوازن مع متطلبات طلب العملاء.
 
 **الخطوة التالية:**
-يرجى الانضمام إلينا في **اجتماع الانطلاق في [التاريخ] الساعة [الوقت]**. سنخصص بنداً محدداً في جدول الأعمال لمواءمة المخزون والجدولة.
+يرجى الانضمام إلينا في **اجتماع الانطلاق في 5 يوليو 2026 الساعة 10:00 صباحاً**. سنخصص بنداً محدداً في جدول الأعمال لمواءمة المخزون والجدولة.
 
 نتطلع إلى شراكتكم.
 
 مع خالص التقدير،
-**[اسم قائد المشروع]**
+**مشاري**
 فريق تحسين DMAIC
 شركة تعبئة المياه

@@ -12,7 +12,7 @@ The pilot showed a 40% reduction in changeover times and a significant drop in u
 Please review the attached schedule to find your designated training slot.
 
 Best regards,
-[Your Name]
+Meshary
 
 ---
 
@@ -28,4 +28,4 @@ Best regards,
 يرجى مراجعة الجدول المرفق لمعرفة موعد التدريب المخصص لك.
 
 أطيب التحيات،
-[اسمك]
+مشاري

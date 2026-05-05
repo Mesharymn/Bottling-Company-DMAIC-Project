@@ -133,14 +133,14 @@ We request that all data be provided in **Excel or CSV format** where possible. 
 
 **Requested submission deadline: May 15, 2026**
 
-Please send all data to **[Project Lead Email]** or share via **[Shared Drive / System Name]**.
+Please send all data to **meshary@bottling.com** or share via **SharePoint — Bottling 6S Project Folder**.
 
 If you have any questions about what is required, or if certain data is unavailable or incomplete, please inform us as soon as possible so we can adjust our approach accordingly.
 
 Thank you for your cooperation. This data is the foundation of everything we will build in this project.
 
 Best regards,
-**[Project Lead Name]**
+**Meshary**
 DMAIC Improvement Team
 Water Bottling Company
 
@@ -283,13 +283,13 @@ Water Bottling Company
 
 **الموعد النهائي المطلوب للتقديم: 15 مايو 2026**
 
-يرجى إرسال جميع البيانات إلى **[بريد قائد المشروع الإلكتروني]** أو مشاركتها عبر **[محرك الأقراص المشترك / اسم النظام]**.
+يرجى إرسال جميع البيانات إلى **meshary@bottling.com** أو مشاركتها عبر **SharePoint — مجلد مشروع 6S**.
 
 إذا كان لديكم أي استفسارات حول المطلوب، أو إذا كانت بعض البيانات غير متاحة أو غير مكتملة، يرجى إبلاغنا في أقرب وقت ممكن حتى نتمكن من تعديل نهجنا وفقاً لذلك.
 
 شكراً على تعاونكم. هذه البيانات هي الأساس الذي سنبني عليه كل شيء في هذا المشروع.
 
 مع خالص التقدير،
-**[اسم قائد المشروع]**
+**مشاري**
 فريق تحسين DMAIC
 شركة تعبئة المياه

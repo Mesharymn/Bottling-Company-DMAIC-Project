@@ -20,7 +20,7 @@ You are the people who run the line every day. You know where the real problems 
 **What we are asking of you:**
 - Participate in brief interviews or short surveys about daily challenges on the line.
 - Share observations about where stoppages happen most frequently.
-- Attend a short team briefing session scheduled for **[Date]** at **[Time]**.
+- Attend a short team briefing session scheduled for **July 10, 2026** at **10:00 AM**.
 - Feel free to raise any concerns or suggestions — all feedback is welcome and valued.
 
 **What this means for you:**
@@ -29,7 +29,7 @@ This project aims to reduce the frustrations you face daily — fewer unexpected
 We look forward to working with you.
 
 Best regards,
-**[Project Lead Name]**
+**Meshary**
 DMAIC Improvement Team
 Water Bottling Company
 
@@ -59,7 +59,7 @@ Water Bottling Company
 **ما نطلبه منكم:**
 - المشاركة في مقابلات قصيرة أو استبيانات موجزة حول التحديات اليومية على الخط.
 - مشاركة الملاحظات حول أكثر مواضع التوقف تكراراً.
-- حضور جلسة إحاطة قصيرة للفريق مقررة في **[التاريخ]** الساعة **[الوقت]**.
+- حضور جلسة إحاطة قصيرة للفريق مقررة في **5 يوليو 2026** الساعة **10:00 صباحاً**.
 - لا تترددوا في طرح أي مخاوف أو اقتراحات — كل تغذية راجعة مرحَّب بها ومُقدَّرة.
 
 **ماذا يعني هذا لكم:**
@@ -68,6 +68,6 @@ Water Bottling Company
 نتطلع إلى العمل معكم.
 
 مع خالص التقدير،
-**[اسم قائد المشروع]**
+**مشاري**
 فريق تحسين DMAIC
 شركة تعبئة المياه

@@ -25,12 +25,12 @@ We kindly request access to the following records for the past 3 months:
 This information will be used strictly for process analysis within the DMAIC framework. It will help us identify patterns, prioritize fixes, and build a sustainable maintenance improvement plan — which ultimately reduces your reactive workload.
 
 **Next Step:**
-Please prepare the above data and bring it to our **kick-off meeting on [Date] at [Time]**. If you have any questions or would like to discuss before then, feel free to reach out directly.
+Please prepare the above data and bring it to our **kick-off meeting on July 10, 2026 at 10:00 AM**. If you have any questions or would like to discuss before then, feel free to reach out directly.
 
 Thank you for your continued dedication.
 
 Best regards,
-**[Project Lead Name]**
+**Meshary**
 DMAIC Improvement Team
 Water Bottling Company
 
@@ -65,11 +65,11 @@ Water Bottling Company
 ستُستخدم هذه المعلومات حصراً لتحليل العملية ضمن إطار DMAIC. ستساعدنا في تحديد الأنماط، وترتيب أولويات الإصلاحات، وبناء خطة تحسين صيانة مستدامة — مما يُقلل في نهاية المطاف من عبء العمل التفاعلي عليكم.
 
 **الخطوة التالية:**
-يرجى تجهيز البيانات المذكورة أعلاه وإحضارها إلى **اجتماع الانطلاق في [التاريخ] الساعة [الوقت]**. إذا كان لديكم أي استفسارات أو رغبتم في التباحث قبل ذلك، لا تترددوا في التواصل مباشرة.
+يرجى تجهيز البيانات المذكورة أعلاه وإحضارها إلى **اجتماع الانطلاق في 5 يوليو 2026 الساعة 10:00 صباحاً**. إذا كان لديكم أي استفسارات أو رغبتم في التباحث قبل ذلك، لا تترددوا في التواصل مباشرة.
 
 شكراً على تفانيكم المستمر.
 
 مع خالص التقدير،
-**[اسم قائد المشروع]**
+**مشاري**
 فريق تحسين DMAIC
 شركة تعبئة المياه

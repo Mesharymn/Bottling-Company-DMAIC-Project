@@ -3,7 +3,7 @@
 ## English
 **Subject:** Formal Handover — 6S Project Controls
 
-**Dear [Process Owner Name],**
+**Dear Ahmed Al-Fahad,**
 
 This email serves as the formal handover of the improved processes from the 6S project team to you, the Process Owner.
 
@@ -18,14 +18,14 @@ Our team will remain available for support over the next 30 days during the tran
 Thank you for your leadership in sustaining these improvements.
 
 Best regards,
-[Black Belt Name]
+Meshary
 
 ---
 
 ## Arabic
 **الموضوع:** التسليم الرسمي — ضوابط مشروع 6S
 
-**عزيزي [اسم مالك العملية]،**
+**عزيزي أحمد الفهد،**
 
 يُعد هذا البريد الإلكتروني بمثابة التسليم الرسمي للعمليات المحسنة من فريق مشروع 6S إليك، بصفتك مالك العملية.
 
@@ -40,4 +40,4 @@ Best regards,
 شكراً لقيادتك في الحفاظ على هذه التحسينات.
 
 أطيب التحيات،
-[اسم الحزام الأسود]
+مشاري

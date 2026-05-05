@@ -25,12 +25,12 @@ Dear Team,
 
 As we move into the Analyze phase of our 6S project, we need your expertise to identify the root causes of our downtime and capping defects.
 
-We will be conducting a Fishbone (Ishikawa) diagram session on [Date] at [Time] in [Location]. 
+We will be conducting a Fishbone (Ishikawa) diagram session on July 15, 2026 at 10:00 AM in Main Conference Room. 
 
 Please come prepared with your insights from the floor. Your practical experience is vital to this analysis.
 
 Best regards,
-[Your Name]
+Meshary
 ```
 
 ### Root Cause Confirmation Update
@@ -47,7 +47,7 @@ We have successfully concluded the Analyze phase. Through statistical hypothesis
 We are now moving into the Improve phase to develop targeted solutions for these issues. A detailed report is attached for your review.
 
 Thank you,
-[Your Name]
+Meshary
 ```
 
 ---
@@ -80,12 +80,12 @@ Thank you,
 
 مع انتقالنا إلى مرحلة التحليل في مشروع 6S الخاص بنا، نحتاج إلى خبرتكم لتحديد الأسباب الجذرية لأوقات التوقف وعيوب التغطية لدينا.
 
-سنعقد جلسة لمخطط عظم السمكة (إيشيكاوا) في [التاريخ] الساعة [الوقت] في [المكان].
+سنعقد جلسة لمخطط عظم السمكة (إيشيكاوا) في 15 يوليو 2026 الساعة 10:00 صباحاً في غرفة الاجتماعات الرئيسية.
 
 يرجى الحضور مستعدين برؤاكم من أرضية الإنتاج. خبرتكم العملية حيوية لهذا التحليل.
 
 أطيب التحيات،
-[اسمك]
+مشاري
 ```
 
 ### تحديث تأكيد الأسباب الجذرية
@@ -102,7 +102,7 @@ Thank you,
 ننتقل الآن إلى مرحلة التحسين لتطوير حلول موجهة لهذه المشكلات. مرفق تقرير مفصل لمراجعتكم.
 
 شكراً لكم،
-[اسمك]
+مشاري
 ```
 
 ---

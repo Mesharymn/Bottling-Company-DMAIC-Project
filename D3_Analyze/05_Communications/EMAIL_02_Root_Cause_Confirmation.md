@@ -13,7 +13,7 @@ We have successfully concluded the Analyze phase. Through statistical hypothesis
 We are now moving into the Improve phase to develop targeted solutions for these issues. A detailed report is attached for your review.
 
 Thank you,
-[Your Name]
+Meshary
 
 ---
 
@@ -30,4 +30,4 @@ Thank you,
 ننتقل الآن إلى مرحلة التحسين لتطوير حلول موجهة لهذه المشكلات. مرفق تقرير مفصل لمراجعتكم.
 
 شكراً لكم،
-[اسمك]
+مشاري
