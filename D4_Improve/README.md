@@ -13,7 +13,8 @@
 | `02_Implementation_Plan/` | Gantt Chart & RACI | Detailed scheduling and responsibilities for deploying solutions |
 | `03_Pilot_Testing/` | Pilot Plan & Results | Test solutions on a small scale before full deployment |
 | `04_Change_Management/` | ADKAR & COM-B Models | Manage human resistance and ensure behavioral change |
-| `05_Communications/` | Emails & Updates | Official communications for the Improve phase |
+| `05_Communications/` | Emails | `05_Communications/` | Emails & Updates | Official communications for the Improve phase | Updates | Official communications for the Improve phase |
+| `06_Training_Plan/` | Training Modules | `05_Communications/` | Emails & Updates | Official communications for the Improve phase | Schedule | Training materials to ensure solution adoption |
 
 ---
 
