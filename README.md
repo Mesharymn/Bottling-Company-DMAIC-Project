@@ -7,11 +7,11 @@ This repository contains all artifacts for the end-to-end DMAIC (Define, Measure
 | Phase | Folder | Status |
 | :--- | :--- | :--- |
 | **Define** | `D1_Define/` | ✅ Complete |
-| **Measure** | `D2_Measure/` | 🔜 Upcoming |
-| **Analyze** | `D3_Analyze/` | 🔜 Upcoming |
-| **Improve** | `D4_Improve/` | 🔄 In Progress |
-| **Control** | `D5_Control/` | 🔄 In Progress |
-| **Training Plan** | `06_Training_Plan/` | ✅ Completed |
+| **Measure** | `D2_Measure/` | ✅ Complete |
+| **Analyze** | `D3_Analyze/` | ✅ Complete |
+| **Improve** | `D4_Improve/` | ✅ Complete |
+| **Control** | `D5_Control/` | ✅ Complete |
+| **Training Plan** | `D6_Guide/` | ✅ Completed |
 
 ## Project Overview
 
