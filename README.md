@@ -103,4 +103,4 @@ Group Healthcare : https://github.com/LATIFARYES/Health-Care-Holding-Company-DMA
 
 ---
 
-Group Logistics :  
+Group Logistics :  https://github.com/njoudCs/Logistic/
