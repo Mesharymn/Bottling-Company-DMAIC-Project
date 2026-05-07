@@ -66,4 +66,10 @@ Navigate into each phase folder to view the detailed templates, findings, and an
 | وقت التحويل | 45 دقيقة | ≤ 20 دقيقة |
 | التسليم في الوقت المحدد | 82% | ≥ 95% |
 
-انتقل إلى مجلد كل مرحلة للاطلاع على القوالب المعبأة والنتائج ووثائق التحليل التفصيلية.
+انتقل إلى مجلد كل مرحلة للاطلاع على القوالب المعبأة والنتائج ووثائق التحليل التفصيلية
+
+
+Group Retail : https://github.com/Qusaialsaqer/Retail-DMAIC-Project
+Group IT : https://github.com/IT2Project/IT-Project/
+Group Healthcare : https://github.com/LATIFARYES/Health-Care-Holding-Company-DMAIC-Project
+Group Logistics :  
