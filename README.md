@@ -69,6 +69,12 @@ Navigate into each phase folder to view the detailed templates, findings, and an
 انتقل إلى مجلد كل مرحلة للاطلاع على القوالب المعبأة والنتائج ووثائق التحليل التفصيلية
 
 
+---
+
+
+---
+
+
 Group Retail : https://github.com/Qusaialsaqer/Retail-DMAIC-Project
 
 
